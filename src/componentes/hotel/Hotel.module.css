@@ -1,0 +1,128 @@
+
+.tarjeta{
+    background-color: #eee;
+    width: 30%;
+    margin: 10px;
+    padding: 25px;
+    box-shadow: 2px 2px 5px #aaa;
+}
+
+.imagen{
+    width: 100%;
+    margin: 5px;
+    margin-bottom: 10px;
+}
+
+.titulo{
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.texto{
+    padding-top: 10px;
+    padding-bottom: 5px;
+    color: #666666;
+    font-size: 14px;
+}
+
+.fechas{
+    width: 100%;
+    background-color:#3694BF;
+    margin-top: 5px;
+    padding: 10px 15px;
+    font-size: 17px;
+    color: #fff;
+    border-radius: 5px;
+}
+
+.lugar{
+    display: flex;
+    align-items: center;
+    box-shadow: 2px 2px 3px #aaa;
+    margin-top: 15px;
+}
+
+.icono{
+    background-color: #3694BF;
+    width: 40px;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+}
+
+.icon{
+
+    padding: 5px;
+}
+
+.ciudad{
+    padding-left: 15px;
+    font-size: 14px;
+    color: #666666;
+}
+
+.contenedor{
+    display: flex;
+    margin-top: 15px;
+    align-items: center;
+}
+
+.numero{
+    display: flex;
+    align-items: center;
+    box-shadow: 2px 2px 3px #aaa;
+    width: 100%;
+}
+
+.habitacion{
+    padding-left: 15px;
+    font-size: 14px; 
+    color: #666666;
+}
+
+.precio{
+    background-color: #3694BF;
+    margin-left: 10px;    
+    width: 40%;
+    box-shadow: 2px 2px 3px #aaa;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    border-radius: 5px;
+}
+
+.preciosi{
+    color: #fff;
+    font-size: 18px;
+    font-weight: bold;
+    margin-right: 5px;
+}
+
+.preciono{
+    color: #205973;
+    font-size: 18px;
+
+}
+
+.boton{
+    margin-top: 25px;
+    margin-bottom: 10px;
+    margin-left: 32%;
+    padding: 8px 40px;
+    border: none;
+    background-color: #8ED4F4;
+    font-size: 18px;
+    font-weight: bold;
+    color: #000;
+    text-align: center;
+    cursor:pointer;
+
+    box-shadow: 2px 2px 3px #aaa;
+    border-radius: 5px;
+}
+
+.boton:hover{
+    background-color: #3694BF;
+    box-shadow:none;
+    color: #fff;
+}

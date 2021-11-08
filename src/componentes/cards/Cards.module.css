@@ -1,0 +1,9 @@
+
+.tarjetas{
+    max-width: 1900px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding: 50px 0px;
+    align-items: flex-start;
+}

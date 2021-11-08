@@ -1,0 +1,10 @@
+.alerta{
+    display: flex;
+    align-content: center;
+    justify-content: center;
+}
+.imagen{
+    width: 65%;
+    margin: 20px;
+    
+}

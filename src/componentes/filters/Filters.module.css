@@ -1,0 +1,35 @@
+.filtro {
+  background-color: #436373;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  padding: 15px;
+}
+
+.formulario{
+  padding: 6px 13px;  
+  background-color: #fff;
+  border: 1px solid #bebebe;
+  font-size: 17px;
+  color: #666666;
+  border-radius: 5px;
+}
+
+.boton {
+  background-color: #8ED4F4;
+  padding: 8px 30px;
+  border: none;
+  font-size: 18px;
+  font-weight: bold;
+  color: #000;
+  text-align: center;
+  cursor: pointer;
+  box-shadow: 2px 2px 3px rgb(61, 61, 61);
+  border-radius: 5px;
+}
+.boton:hover {
+  background-color: #3694BF;
+  box-shadow:none;
+  color: #fff;
+}
