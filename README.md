@@ -16,7 +16,6 @@ Front-End creation of an interactive web application for searching and reserving
 
 *    The graphic resources were provided by Acámica
 
-See the page
-
+## See the page
 [Click here to see the page](https://buscadordehoteles.netlify.app)
 
